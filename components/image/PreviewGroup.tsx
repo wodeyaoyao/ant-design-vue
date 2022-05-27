@@ -18,6 +18,8 @@ export const icons = {
   close: <CloseOutlined />,
   left: <LeftOutlined />,
   right: <RightOutlined />,
+  video: <VideoCameraOutlined />, 
+  frown: <FrownOutlined />
 };
 
 const InternalPreviewGroup = defineComponent({
